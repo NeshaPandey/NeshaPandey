@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Nisha Pandey. <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<!--
-**NeshaPandey/NeshaPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student of Computer Science and Engineering.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Web Development.
+- 🌱 I’m currently learning Data Structure and Algorithms.
+- 📚 In my free time, I solve problems in LeetCode and HackerRank.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact with me 📝
+
+[<img align="left" alt="Nisha| LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/NeshaPandey-124254215/
+<br />
+## 🔥Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeshaPandey&theme=radical"/>
+</p>
+<br />
+
+---
+
+### Languages and Tools 🛠 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+<br/>

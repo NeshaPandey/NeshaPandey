@@ -12,6 +12,14 @@
 
 [linkedin]: https://www.linkedin.com/in/NeshaPandey-124254215/
 <br />
+## My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeshaPandey&layout=compact&langs_count=10" alt="Top Languages" />
+</p>
+
+<br/>
+
 ## 🔥Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeshaPandey&theme=radical"/>
